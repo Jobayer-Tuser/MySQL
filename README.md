@@ -1,5 +1,3 @@
-# MySQL
-
 ### Why MySQL
   1. MySQL is a Open Source and Cross Platform Software
   2. Used With Multiple Language Such as PHP, Python, NodeJS, C#
