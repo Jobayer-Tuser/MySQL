@@ -14,30 +14,32 @@ Raw SQL Queries for Web Application Development
 
 
 ### MySQL Operation in real time web application development
-01. Create a Database and Tables
-02. Insert Single and Multiple Data
-04. Update Data
-05. Delete Data
-06. Delete Multiple Data
-07. Select Data from a Table
-08. Select Data with WHERE CLAUSE from a Table
-09. Select Data with AND, OR and NOT Operators
-10. Select Data with IN Operators
-11. Select Data with BETWEEN Operators
-12. Select Data with LIKE Operators
-13. Select Data with REGEXP Pattern
-14. Select Data with ORDER BY [ ASC or DESC ]
-15. Select Data with DISTINCT
-16. Select Data with IS NULL and IS NOT NULL
-17. Select Data with LIMIT and OFFSET
-18. Select Data with AGGREGATE fx. [ COUNT | MAX | MIN | SUM | AVG ]
-19. Data COMMIT and ROLLBACK [ only for INSERT, UPDATE & DELETE ]
-20. List of Constraints in MySQL
-21. MySQL JOIN fx. [ Inner Join | Left Join | Right Join | Cross Join | Join ]
-22. Select Data with GROUP BY and HAVING
-23. Select Data SubQuery or Nested Query with EXISTS and NOT EXISTS
-24. Select Data with UNION and UNION ALL
-25. MySQL IF and CASE Clause
+| # | Queries Type |
+|---|--------------|
+| 01 | Create a Database and Tables |
+| 02 | Insert Single and Multiple Data |
+| 04 | Update Data |
+| 05 | Delete Data |
+| 06 | Delete Multiple Data |
+| 07 | Select All Data from a Table |
+| 08 | Select Data with WHERE CLAUSE from a Table |
+| 09 | Select Data with AND, OR and NOT Operators |
+| 10 | Select Data with IN Operators |
+| 11 | Select Data with BETWEEN Operators |
+| 12 | Select Data with LIKE Operators |
+| 13 | Select Data with REGEXP Pattern |
+| 14 | Select Data with ORDER BY [ ASC or DESC ] |
+| 15 | Select Data with DISTINCT |
+| 16 | Select Data with IS NULL and IS NOT NULL |
+| 17 | Select Data with LIMIT and OFFSET |
+| 18 | Select Data with AGGREGATE fx. [ COUNT | MAX | MIN | SUM | AVG ] |
+| 19 | Data COMMIT and ROLLBACK [ only for INSERT, UPDATE & DELETE ] |
+| 20 | List of Constraints in MySQL |
+| 21 | MySQL JOIN fx. [ Inner Join | Left Join | Right Join | Cross Join | Join ] |
+| 22 | Select Data with GROUP BY and HAVING |
+| 23 | Select Data SubQuery or Nested Query with EXISTS and NOT EXISTS |
+| 24 | Select Data with UNION and UNION ALL |
+| 25 | MySQL IF and CASE Clause |
 
 ```
 [NOTE] Find the blockquote on keyboard prior to upper numeric key 1 to avoid error in entire MySQL queries.
