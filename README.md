@@ -1,6 +1,4 @@
 # MySQL
-Raw SQL Queries for Web Application Development
-
 
 ### Why MySQL
   1. MySQL is a Open Source and Cross Platform Software
