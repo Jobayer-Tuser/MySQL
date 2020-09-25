@@ -7,7 +7,6 @@
   6. Popular Websites or Company who used MySQL such as Facebook, Twitter, Google, Youtube, Wikipedia, Pinterest, Flickr etc.
   7. Popular Content Management System who used MySQL as well as Wordpress, Drupal, Magento, Joomla, TYPO3, MODx etc.
 
-#### Learn more
 Official: https://dev.mysql.com/doc/
 <br>
 Wikipedia: https://en.wikipedia.org/wiki/MySQL
