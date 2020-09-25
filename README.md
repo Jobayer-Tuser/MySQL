@@ -6,7 +6,6 @@
   5. MySQL Works in Client and/or Server and/or Embedded System
   6. Popular Websites or Company who used MySQL such as Facebook, Twitter, Google, Youtube, Wikipedia, Pinterest, Flickr etc.
   7. Popular Content Management System who used MySQL as well as Wordpress, Drupal, Magento, Joomla, TYPO3, MODx etc.
-  8. Purpose of MySQL (1) Create Database and Tables (2) Add Data into Database (3) Update Data into Database (4) Fetch and/or Read Data from Database (5) Delete Data from Database
 
 
 ### MySQL Operation in real time web application development
